@@ -1,0 +1,8 @@
+#Resource files
+Views/*.resx
+
+#Config files
+*.config
+
+#Visual Studio Project files
+*.csproj
